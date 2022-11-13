@@ -13,7 +13,7 @@ For this last milestone, we will try to use metaheuristic approaches to solve ou
 
 ## 📚 Datasets
 
-For this last we have 3 datasets:
+For this last milestone we have 3 datasets:
 1. Colombia
 2. Ukraine
 3. Romania

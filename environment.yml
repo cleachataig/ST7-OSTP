@@ -8,6 +8,6 @@ dependencies:
 - haversine 
 - matplotlib
 - folium
-- gurobi==9
+- gurobi=9.5
 - ipykernel
 - openpyxl
