@@ -1,0 +1,11 @@
+taskId;performed;employeeName;startTime;
+1;0;;;
+2;1;Ambre;929;
+3;1;Valentin;489;
+4;1;Valentin;653;
+5;0;;;
+6;0;;;
+7;1;Ambre;543;
+8;1;Ambre;848;
+9;1;Valentin;577;
+10;1;Ambre;648;

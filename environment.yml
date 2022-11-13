@@ -1,0 +1,13 @@
+name: decisionbrain
+channels: 
+- conda-forge
+dependencies:
+- python
+- pandas
+- numpy
+- haversine 
+- matplotlib
+- folium
+- gurobi==9
+- ipykernel
+- openpyxl
