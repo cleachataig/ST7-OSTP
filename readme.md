@@ -20,10 +20,11 @@ More information about the third project milestone is available [here](Jalon3/re
 ## 🚗 Usage
 
 1. You can first install a new virtual environment with the required python packages using the line `conda env create -f environment.yml` in your terminal, and activate it with `conda activate decisionbrain`
-2. Then, extract `InstancesV1.zip` to `InstancesV1` in the directory `data`
-3. Extract `InstancesV2.zip` to `InstancesV2` in the directory `data` 
-4. Extract `InstancesV3.zip` to `InstancesV3` in the directory `data`
-5. Your project should look like this
+2. Then create an empty directory `data` in the home directory
+3. Extract `InstancesV1.zip` to `InstancesV1` in the directory `data`
+4. Extract `InstancesV2.zip` to `InstancesV2` in the directory `data` 
+5. Extract `InstancesV3.zip` to `InstancesV3` in the directory `data`
+6. Your project should look like this
 
 ```bash
 |-- data
@@ -65,5 +66,5 @@ More information about the third project milestone is available [here](Jalon3/re
 |-- Slides_Grp5.pdf
 ```
 
-6. You should now be able to run any Jupyter Notebook of the `Jalon1`, `Jalon2`or `Jalon3` directories
-6. You can find additional information on the project in the pdf files `DecisionBrain_Report_Grp5.pdf` and `Slides_Grp5.pdf`. 
+7. You should now be able to run any Jupyter Notebook of the `Jalon1`, `Jalon2`or `Jalon3` directories
+8. You can find additional information on the project in the pdf files `DecisionBrain_Report_Grp5.pdf` and `Slides_Grp5.pdf`. 
